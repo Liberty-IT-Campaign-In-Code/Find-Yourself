@@ -11,5 +11,7 @@ We’ve used the open-source graphical library Processing for this project.
 You can download Processing here - https://www.processing.org/download/.
 
 # Processing
-
 Examples of how Processing is used can be found here - https://github.com/ThomasLengeling/Processing-Sketch?files=1
+
+# Examples from Glenn
+And here is a link to Glenn's blog where you can see examples of how he works in Processing - www.butterfly.ie/liberty
